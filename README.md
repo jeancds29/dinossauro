@@ -1,5 +1,7 @@
 # teste-dinossauro
 
+Faça o Download ou clone do projeto.
+
 Abra o cmd na pasta do projeto e digite o comando: npm install
 
 Para gerar o output.txt, com o cmd na pasta do projeto faça o comando: npm start
